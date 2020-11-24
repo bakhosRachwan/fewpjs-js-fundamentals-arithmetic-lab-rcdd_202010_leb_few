@@ -1,6 +1,6 @@
 // Write your code here
-function multiply(x, y){
-  return x*y;
+FUNCTION MULTIPLY(X, Y){
+  RETURN X*Y;
 }
 let num1 = 31;
 let num2 = 2;

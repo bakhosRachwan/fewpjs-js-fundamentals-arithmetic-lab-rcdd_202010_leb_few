@@ -7,3 +7,5 @@ let multiply= num1*num2
 let random = Math.floor(Math.random() * 10);
 
 let mod = (7%2)*4;
+
+let max = Math.max(2,3,20);
